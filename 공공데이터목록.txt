@@ -1,0 +1,71 @@
+# 특허 
+https://www.datastore.or.kr/product/openBigDataDetail.do?seq=96
+# 상장 주식 거래
+https://www.datastore.or.kr/product/openBigDataDetail.do?seq=93
+# [DB개요]
+ 
+o 한국기업데이터에서 제공하고 있는 다양한 기업정보에 관한 DB이며, 기업개요정보(기업개요정보/주요재무정보), 대표자정보(대표자정보/경영진정보), 기업현황정보(기업현황정보/사업장정보/사업현황/매출현황), 재무정보(재무제표/재무비율/재무분석), 신용정보(종합신용등급/외부신용등급/당좌거래정지정보), 부가정보(신설법인정보/기업종정정보/거래처위험정보) 등 카테고리별 다양한 기업정보들을 텍스트의 형태로 제공하고 있음.
+ 
+ 
+[제공정보]
+ 
+o 기업개요정보 : 기업개요정보(기업체명,사업자번호,법인번호,기업규모,기업형태,업종분류,사업장 주소,전화 및 팩스번호, 상시 근로자 수 등) 를 텍스트의 형태로 제공하고 있음.
+ 
+o 대표자 정보 : 대표자 정보(성명,주소,학력,경력,주식소유현황,자격증 등)를 텍스트의 형태로 제공하고 있음. 
+ 
+o 기업현황 정보 : 기업현황 정보(기업연혁,관계회사 현황, 주주현황, 주식관련사항, 인원현황, 주요 거래처, 영업현황 등) 및 사업장 정보(주소, 주요시설, 가동생산방식 등) 그리고 사업현황, 매출현황(수주·계약현황, 건설실적, 면허·시공능력, 지적재산권 등) 정보들을 텍스트의 형태로 제공하고 있음.
+ 
+o 재무정보 : 재무제표(대차대조표, 손익계산서, 이익잉여금, 처분계산서, 제조원가명세서, 현금흐름표, 연결재무제표 등) 및 재무비율(수익성, 안정성, 활동성, 성장성, 현금흐름 관련 재무비율 등) 그리고 재무분석(현금흐름분석, 현금수지분석, 원가분석, 차입금구조분석, EVA분석 등) 정보들을 텍스트의 형태로 제공하고 있음.
+ 
+o 신용등급 및 신용정보 : 종합신용등급(기업신용등급, 평가일자, 등급구분 등) 및 외부신용등급(한신평, 한신정, 한기평 등) 그리고 당좌거래정지 정보(채무불이행 정보, 상거래연체 정보, 법정관리 정보, 화의정보 등) 들을 텍스트의 형태로 제공하고 있음.
+ 
+o 부가정보 : 신설법인정보(기업개요, 경영진  정보, 사업목적 등) 및 기업동정정보 그리고 거래처위험정보 들을 텍스트의 형태로 제공하고 있음. 
+ 
+https://www.datastore.or.kr/dbproduct/view.do?db_product_nid=CM010320120000389
+
+
+
+##########################################################
+####################### 수업용 ############################
+##########################################################
+
+
+### UN data ###
+http://data.un.org/Explorer.aspx?d=UNESCO
+
+### 공공 데이터 포털 ###
+https://www.data.go.kr/
+
+# 국가 중점 데이터
+https://www.data.go.kr/emphasisData/show.do
+
+# 이달의 추천 데이터
+https://www.data.go.kr/information/monthData/index.do
+
+# 승하차 인원 통계
+https://www.data.go.kr/dataset/15003169/fileData.do
+
+### 데이터 스토어 ###
+https://www.datastore.or.kr/intro.do
+
+# 대중교통 승하차
+https://www.datastore.or.kr/product/openBigDataDetail.do?seq=91
+
+# 버스 승하차
+https://www.datastore.or.kr/product/openBigDataDetail.do?seq=90
+
+# open big data - !! 주요 데이터 모음
+https://www.datastore.or.kr/product/openBigDataList.do
+
+# 미세먼지
+https://www.datastore.or.kr/product/openBigDataDetail.do?seq=89
+
+# 업종별 매출 현황
+https://www.datastore.or.kr/product/openBigDataDetail.do?seq=97
+
+
+### 서울 열린 데이터 광장 ###
+http://www.seoul.go.kr/main/index.html
+
+# 서울시 년도별 유동인구 및 사업체 정보 API로 서울시 1만지점 유동인구 정보 및 사업체 정보 등 입지분석 정보를 조회
+http://data.seoul.go.kr/openinf/fileview.jsp?infId=OA-13288&tMenu=11
