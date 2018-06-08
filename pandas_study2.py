@@ -32,4 +32,4 @@ print( df[df.name == '박대성'] )
 print( df[ (df.money > 10000) & (df.sex == 'M') ] )
 
 print('----행 과 열 치환------')
-print( df.transform() )
+print( df.transpose() )
